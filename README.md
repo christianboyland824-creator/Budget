@@ -1,5 +1,3 @@
-# Budget for iPhone
+# Budget iPhone Prototype v2
 
-Upload this folder to any private HTTPS static host. Open the HTTPS address in Safari, tap Share, choose Add to Home Screen, then Add. The app then opens full screen and works offline.
-
-All budget information is stored in browser storage on that iPhone. There are no bank links, accounts, analytics, or cloud database. Clearing Safari website data or deleting the Home Screen app may erase the data.
+Updates: recurring bill management, bank-linking UI removed, and a four-step paycheck assignment workflow added. Open index.html in Safari. Demo data is illustrative and local only.
